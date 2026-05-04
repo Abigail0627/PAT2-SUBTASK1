@@ -4,6 +4,11 @@
 1.Overview: What is Morse Code?
 morse code is a method of telecommunication that encodes text characters as standardized sequence of two different singal duratons- dots("dits") and dashes("dahs")
 
+EXAMPLES
+- 'S' = '...'(dot dot dot)
+- 'O' ='---'( dash dash dash)
+- 'SOS' = '... --- ...'
+
 2. Histrorical Context: Why Was Morse Code Created?
 Morse code was created to enable rapid,long-distance communication over electrical telegraph wires
 
@@ -16,6 +21,10 @@ the system uses 3 basic timing rules:
    - space between dots/dashes in the same letter = 1 unit
    - space between letters = 3 units
    - space between words = 7 units
+  
+     EXAMPLES
+     - HELLO = .... . .-. . .-. . ---
+     - GITHUB = --. .. - .... ..- -...
   
 4. References
    1.international telecommunication union(2009). * international morse code*. reccommandations ITU-R M.1677-1.
